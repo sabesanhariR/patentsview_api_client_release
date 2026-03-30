@@ -1,0 +1,14 @@
+{
+  "title": "PatentsView API Client — Thesis Release",
+  "description": "Python pipeline for extracting, cleaning, and processing patent data from the PatentsView API. Used in MSc thesis: Structural Dynamics of Inventor Networks & Innovation at TU Delft.",
+  "creators": [
+    {
+      "name": "Rajamanikam, Sabesanhari",
+      "affiliation": "Delft University of Technology"
+    }
+  ],
+  "keywords": ["patent data", "inventor networks", "network analysis", "PatentsView", "urban mining"],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open"
+}
