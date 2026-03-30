@@ -1,0 +1,24 @@
+# env file
+.env
+
+# cache and other sys files
+__pycache__
+scripts
+lib
+
+# output and intermediate files
+output_files
+input_files
+html_files
+midterm_analysis
+master_panel_analysis/figures*
+master_panel_analysis/tables*
+master_panel_analysis/legacy_files*
+
+# file types
+*.html
+*.csv
+*.xlsx
+*.pdf
+*.png
+*.jpg
