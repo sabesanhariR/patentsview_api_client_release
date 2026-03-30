@@ -129,7 +129,7 @@ Output files are saved as `.csv` under `<root>/output_files/` (configurable via 
 ---
 
 #### Author's Note:
-_"If it's mean to be, it will come to you!_
+_"If it is mean to be, it will come to you!_
 
 _Happy Coding! Cheers :)"_
 
