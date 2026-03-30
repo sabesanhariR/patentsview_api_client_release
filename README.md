@@ -6,8 +6,9 @@ A **Python client** for accessing patent data through the **PatentsView Search A
 ## Author
 
 Developed by [Sabesh Rajamanikam](https://www.linkedin.com/in/sabesanhari/), MSc Management of Technology student at TU Delft,  
-for research on intra-organizational inventor networks and innovation impact.
+for research on intra-organizational inventor networks and innovation impact. 
 
+[![DOI](https://zenodo.org/badge/1196194433.svg)](https://doi.org/10.5281/zenodo.19335091)
 
 ## Release
 
