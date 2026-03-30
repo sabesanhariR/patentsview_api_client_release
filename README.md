@@ -13,7 +13,7 @@ for research on intra-organizational inventor networks and innovation impact.
 
 This branch is the **stable, thesis-submission version** of the pipeline:
 
-🔗 [Release Branch — patentsview_api_client](https://github.com/sabesanhariR/patentsview_api_client/tree/release/v1.0)
+🔗 [Release Branch — patentsview_api_client](https://github.com/sabesanhariR/patentsview_api_client_release)
 
 > Preserved for reproducibility. No active development occurs on this branch.
 
