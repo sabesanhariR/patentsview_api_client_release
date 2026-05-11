@@ -8,7 +8,7 @@ A **Python client** for accessing patent data through the **PatentsView Search A
 Developed by [Sabesh Rajamanikam](https://www.linkedin.com/in/sabesanhari/), MSc Management of Technology student at TU Delft,  
 for research on intra-organizational inventor networks and innovation impact. 
 
-[![DOI](https://zenodo.org/badge/1196194433.svg)](https://doi.org/10.5281/zenodo.19335091)
+[![DOI](docs/zenodo.19335092.svg)](https://doi.org/10.5281/zenodo.19335091)
 
 ## Release
 
@@ -37,8 +37,8 @@ This branch is the **stable, thesis-submission version** of the pipeline:
 
 ### Clone and install dependencies
 ```bash
-git clone https://github.com/sabesanhariR/patentsview_api_client.git
-cd patentsview_api_client
+git clone https://github.com/sabesanhariR/patentsview_api_client_release.git
+cd patentsview_api_client_release
 pip install -r requirements.txt
 ```
 
